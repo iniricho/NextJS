@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="pancakeswap-cake-seeklogo" unicode="&#xe801;" d="M178 694c-15 81 47 156 128 156 72 0 132-59 132-131v-163c18 0 37 3 56 3 19 0 34 0 53-3v163c0 72 59 131 131 131 81 0 144-75 131-156l-34-191c122-53 216-147 216-262v-72c0-97-63-178-153-232-91-56-210-87-344-87s-253 31-344 87c-87 54-150 135-150 232v72c0 115 91 209 213 262l-35 191z m550-216l41 225c9 56-31 110-91 110-50 0-90-41-90-91v-206c-13 3-29 3-41 3-19 0-34 3-53 3-19 0-38 0-56-3-13 0-29-3-41-3v203c0 50-41 90-91 90-56 0-100-53-87-109l40-225c-131-50-218-137-218-237v-72c0-153 203-279 453-279s453 126 453 279v72c3 103-84 190-219 240z m-359-219c0-40-22-75-50-75-28 0-50 35-50 75s22 75 50 75 50-34 50-75z m347 0c0-40-22-75-50-75s-50 35-50 75 22 75 50 75c28 0 50-34 50-75z" horiz-adv-x="991" />
+</font>
+</defs>
+</svg>
